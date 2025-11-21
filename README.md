@@ -1,10 +1,10 @@
-# 🏦 Simplified Account Simulation
+# Simplified Account Simulation
 
 A basic Python class designed for educational purposes to simulate the core functionality of a bank account, including initialization and withdrawal logic.
 
 ---
 
-## ✨ Features
+##Features
 
 * **Initialization:**
 * **Withdrawal:** Safely simulate withdrawing funds with checks for **insufficient funds** and **negative/zero amounts**.
